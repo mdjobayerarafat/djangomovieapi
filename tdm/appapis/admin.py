@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import Movie
+from appapis.models import Movie
 # Register your models here.
 
 
